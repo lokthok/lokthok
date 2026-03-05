@@ -8,7 +8,7 @@ I care about precision over speed and readability over cleverness. My GitHub is 
 
 [![Discord](https://custom-icon-badges.demolab.com/badge/-lokthok-7289DA?style=flat&logo=discord&logoColor=white&labelColor=5865F2)](https://discord.com/users/1024070903383986226) [![Mail](https://custom-icon-badges.demolab.com/badge/-rh.kontakt@mailbox.org-009E4F?style=flat&logo=mailbox&logoColor=white&labelColor=007B3E)](mailto:rh.kontakt@mailbox.org) [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-René%20Hinterköerner-1878D4?style=flat&labelColor=0A66C2)](https://linkedin.com/in/ren%C3%A9-hinterk%C3%B6rner-5851573a8)
 
-<br><br>
+<br>
 
 ### 🛠️ Languages and Tools
 
