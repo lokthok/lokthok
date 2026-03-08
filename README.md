@@ -28,3 +28,7 @@ I care about precision over speed and readability over cleverness. My GitHub is 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Linux Mint" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/linuxmint" />
 <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/c0a59b3f-f683-4a47-8fb2-605584471d31/thumbnail" >
+</p>
