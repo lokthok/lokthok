@@ -31,6 +31,5 @@ I care about precision over speed and readability over cleverness. My GitHub is 
 
 <br><br>
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/c0a59b3f-f683-4a47-8fb2-605584471d31/thumbnail" >
-</p>
+
+<a href=https://www.boot.dev/u/lokthok target=blank_><img src="https://api.boot.dev/v1/users/public/c0a59b3f-f683-4a47-8fb2-605584471d31/thumbnail" >
