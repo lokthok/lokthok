@@ -34,3 +34,5 @@ I care about precision over speed and readability over cleverness. My GitHub is 
 <a href="https://www.boot.dev/u/lokthok" target="_blank" rel="noopener noreferrer">
   <img src="https://api.boot.dev/v1/users/public/c0a59b3f-f683-4a47-8fb2-605584471d31/thumbnail">
 </a>
+
+<a href="https://www.boot.dev/u/lokthok" target="_blank" rel="noopener noreferrer">LINK</a>
