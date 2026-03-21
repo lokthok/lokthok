@@ -12,6 +12,7 @@ I care about precision over speed and readability over cleverness. My GitHub is 
 
 ### 🛠️ Languages and Tools
 
+<img align="left" alt="Boot.dev" width="30px" style="padding-right:10px;" src="https://www.boot.dev/blog/img/300/bootdev-logo-full-150.png" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img align="left" alt="DBeaver" width="30px" style="padding-right:10px; background-color:white; border-radius:4px;" src="https://cdn.simpleicons.org/dbeaver/white" />
